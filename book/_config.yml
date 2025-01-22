@@ -46,6 +46,15 @@ sphinx:
     - sphinx_exercise
     - jupyter_sphinx
     - teachbooks_sphinx_tippy
+    - sphinx_togglebutton
+    - jupyter_sphinx
+    - sphinx.ext.autosectionlabel
+    - sphinx.ext.graphviz
+    - sphinx.ext.imgconverter
+    - sphinx.ext.intersphinx
+    - sphinx.ext.mathjax
+    - sphinx.ext.todo
+
 
 bibtex_bibfiles: 
   - references.bib
