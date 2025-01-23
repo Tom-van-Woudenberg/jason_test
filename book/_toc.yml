@@ -2,7 +2,7 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Contents
+  - caption: Content
     chapters:
     - file: introduction.rst
     - file: jupyter-python.rst
