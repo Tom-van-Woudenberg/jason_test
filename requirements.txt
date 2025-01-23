@@ -9,7 +9,7 @@ jupyter-sphinx
 matplotlib
 numpy
 pythreejs
-scikits.odes
+# scikits.odes
 scipy
 sphinx-togglebutton
 sympy
